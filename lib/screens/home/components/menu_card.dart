@@ -63,7 +63,7 @@ class MenuCard extends StatelessWidget {
                   ),
                   SizedBox(height: 5),
                   Text(
-                    'subtitle',
+                    subtitle,
                     style: TextStyle(
                       color: Colors.white70,
                       fontSize: 13,
